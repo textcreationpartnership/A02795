@@ -32,10 +32,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Nevves out of the coast of Spaine The true report of the honourable seruice for England, perfourmed 
+
+1. TO THE RIGHT HONOrable Charles L. Howard, Baron of Effingham, Knight of the Honourable Order of the Garter, and high Admirall of England, Ireland, and VVales, the dominions and Isles of the same, of the Towne of Callice, and the marches thereof, of Normandy, Gascoigne, and Guines, and Captaine generall of all her Maiesties Seas and Nauie Royall; increase of honors, and happinesse to his harts desire.
+
 #####Body#####
 
-1. This was the first exploit of his last voiage: the second was thus as followeth in this Letter dated May 21.
+1. The most fortunate and honourable seruice for England, perfourmed by Sir FRAVNCIS DRAKE in CALES the 19 of Aprill, 1587. with his latest exploits in Cape S. Vincent and Cape Saker, done the 21. of May: written by a Gentleman of his companie to one of his freends, as the verie truth of this expedition and successe.
+
+    _ This was the first exploit of his last voiage: the second was thus as followeth in this Letter dated May 21.
 
 **Types of content**
 
